@@ -14,7 +14,7 @@ QOS开发团队选择 GitHub 作为代码托管平台，同时也是开发协作
 
 ## 三、项目现状
 
-目前 QOS 项目的多个子项目已经进入开发阶段，代码已经在 GitHub 上开源，关于项目的所有进展都可以在这个地址[https://github.com/QOSGroup](https://github.com/QOSGroup)查阅
+目前 QOS 项目的多个子项目已经进入开发阶段，代码已经在 GitHub 上开源，关于项目的所有进展都可以在这个地址[https://github.com/QOSGroup](https://github.com/QOSGroup)查阅
 
 GitHub主页截图
 ![img](https://raw.githubusercontent.com/QOSGroup/static/master/qosgroup-github.png)
@@ -48,7 +48,7 @@ GitHub主页截图
 * 报告代码、文档中出现的Bug
 * 建议新的程序功能特性
 * 领取新手任务
-* 修复Bug，提交新代码
+* 修复Bug，提交新代码
 * 完成新功能特，提交新代码
 
 Issues主页截图
